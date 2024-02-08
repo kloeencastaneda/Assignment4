@@ -71,9 +71,13 @@ namespace Assignemnt4
         {
 
             public string Address { get; set; } 
+            
             public int age { get; set; }
+            
             public string city { get; set; }
+            
             public string Name { get; set; }
+            
             public abstract void DoSomeWork();
             
 
