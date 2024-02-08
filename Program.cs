@@ -83,6 +83,14 @@ namespace Assignemnt4
 
                 //Console.WriteLine("This person is going to do some work.");
 
+
+            interface Interface1 
+                
+            {
+                
+            public void DoSomeWork();
+                
+            }
             
         }
     }
